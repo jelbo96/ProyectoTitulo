@@ -1,0 +1,606 @@
+"2020-11-24T17:57:40Z" : {
+    "humidity" : 71,
+    "light" : 99.21875,
+    "temperature" : 19.2,
+    "timestamp" : "1606240660"
+  },
+  "2020-11-24T17:57:51Z" : {
+    "humidity" : 74,
+    "light" : 97.94922,
+    "temperature" : 19.1,
+    "timestamp" : "1606240671"
+  },
+  "2020-11-24T17:58:03Z" : {
+    "humidity" : 71,
+    "light" : 98.24219,
+    "temperature" : 19.2,
+    "timestamp" : "1606240683"
+  },
+  "2020-11-24T17:58:14Z" : {
+    "humidity" : 70,
+    "light" : 98.14453,
+    "temperature" : 19.2,
+    "timestamp" : "1606240694"
+  },
+  "2020-11-24T17:58:26Z" : {
+    "humidity" : 70,
+    "light" : 98.53516,
+    "temperature" : 19.2,
+    "timestamp" : "1606240706"
+  },
+  "2020-11-24T17:58:37Z" : {
+    "humidity" : 70,
+    "light" : 98.33984,
+    "temperature" : 19.2,
+    "timestamp" : "1606240717"
+  },
+  "2020-11-24T17:58:49Z" : {
+    "humidity" : 70,
+    "light" : 94.82422,
+    "temperature" : 19.3,
+    "timestamp" : "1606240729"
+  },
+  "2020-11-24T17:59:00Z" : {
+    "humidity" : 69,
+    "light" : 93.65234,
+    "temperature" : 19.2,
+    "timestamp" : "1606240740"
+  },
+  "2020-11-24T17:59:11Z" : {
+    "humidity" : 69,
+    "light" : 94.14063,
+    "temperature" : 19.3,
+    "timestamp" : "1606240751"
+  },
+  "2020-11-24T17:59:22Z" : {
+    "humidity" : 69,
+    "light" : 95.80078,
+    "temperature" : 19.3,
+    "timestamp" : "1606240762"
+  },
+  "2020-11-24T17:59:33Z" : {
+    "humidity" : 69,
+    "light" : 90.52734,
+    "temperature" : 19.4,
+    "timestamp" : "1606240773"
+  },
+  "2020-11-24T17:59:44Z" : {
+    "humidity" : 68,
+    "light" : 90.52734,
+    "temperature" : 19.4,
+    "timestamp" : "1606240784"
+  },
+  "2020-11-24T17:59:56Z" : {
+    "humidity" : 68,
+    "light" : 91.21094,
+    "temperature" : 19.4,
+    "timestamp" : "1606240796"
+  },
+  "2020-11-24T18:00:07Z" : {
+    "humidity" : 68,
+    "light" : 90.52734,
+    "temperature" : 19.4,
+    "timestamp" : "1606240807"
+  },
+  "2020-11-24T18:00:18Z" : {
+    "humidity" : 68,
+    "light" : 90.42969,
+    "temperature" : 19.4,
+    "timestamp" : "1606240818"
+  },
+  "2020-11-24T18:00:29Z" : {
+    "humidity" : 68,
+    "light" : 91.21094,
+    "temperature" : 19.4,
+    "timestamp" : "1606240829"
+  },
+  "2020-11-24T18:00:40Z" : {
+    "humidity" : 68,
+    "light" : 90.42969,
+    "temperature" : 19.4,
+    "timestamp" : "1606240840"
+  },
+  "2020-11-24T18:00:51Z" : {
+    "humidity" : 68,
+    "light" : 90.42969,
+    "temperature" : 19.4,
+    "timestamp" : "1606240851"
+  },
+  "2020-11-24T18:01:03Z" : {
+    "humidity" : 68,
+    "light" : 91.21094,
+    "temperature" : 19.4,
+    "timestamp" : "1606240863"
+  },
+  "2020-11-24T18:01:14Z" : {
+    "humidity" : 68,
+    "light" : 90.42969,
+    "temperature" : 19.4,
+    "timestamp" : "1606240874"
+  },
+  "2020-11-24T18:01:25Z" : {
+    "humidity" : 68,
+    "light" : 90.33203,
+    "temperature" : 19.4,
+    "timestamp" : "1606240885"
+  },
+  "2020-11-24T18:01:36Z" : {
+    "humidity" : 68,
+    "light" : 90.33203,
+    "temperature" : 19.3,
+    "timestamp" : "1606240896"
+  },
+  "2020-11-24T18:01:47Z" : {
+    "humidity" : 68,
+    "light" : 90.23438,
+    "temperature" : 19.3,
+    "timestamp" : "1606240907"
+  },
+  "2020-11-24T18:01:58Z" : {
+    "humidity" : 68,
+    "light" : 90.82031,
+    "temperature" : 19.3,
+    "timestamp" : "1606240918"
+  },
+  "2020-11-24T18:02:09Z" : {
+    "humidity" : 68,
+    "light" : 90.82031,
+    "temperature" : 19.3,
+    "timestamp" : "1606240929"
+  },
+  "2020-11-24T18:02:20Z" : {
+    "humidity" : 68,
+    "light" : 90.03906,
+    "temperature" : 19.3,
+    "timestamp" : "1606240940"
+  },
+  "2020-11-24T18:02:33Z" : {
+    "humidity" : 68,
+    "light" : 90.03906,
+    "temperature" : 19.3,
+    "timestamp" : "1606240953"
+  },
+  "2020-11-24T18:02:45Z" : {
+    "humidity" : 67,
+    "light" : 89.94141,
+    "temperature" : 19.3,
+    "timestamp" : "1606240965"
+  },
+  "2020-11-24T18:02:57Z" : {
+    "humidity" : 67,
+    "light" : 89.94141,
+    "temperature" : 19.3,
+    "timestamp" : "1606240977"
+  },
+  "2020-11-24T18:03:09Z" : {
+    "humidity" : 67,
+    "light" : 89.94141,
+    "temperature" : 19.3,
+    "timestamp" : "1606240989"
+  },
+  "2020-11-24T18:03:22Z" : {
+    "humidity" : 68,
+    "light" : 90.52734,
+    "temperature" : 19.3,
+    "timestamp" : "1606241002"
+  },
+  "2020-11-24T18:03:33Z" : {
+    "humidity" : 67,
+    "light" : 89.84375,
+    "temperature" : 19.3,
+    "timestamp" : "1606241013"
+  },
+  "2020-11-24T18:03:44Z" : {
+    "humidity" : 68,
+    "light" : 89.84375,
+    "temperature" : 19.3,
+    "timestamp" : "1606241024"
+  },
+  "2020-11-24T18:03:55Z" : {
+    "humidity" : 67,
+    "light" : 89.84375,
+    "temperature" : 19.3,
+    "timestamp" : "1606241035"
+  },
+  "2020-11-24T18:04:06Z" : {
+    "humidity" : 68,
+    "light" : 89.84375,
+    "temperature" : 19.3,
+    "timestamp" : "1606241046"
+  },
+  "2020-11-24T18:04:17Z" : {
+    "humidity" : 67,
+    "light" : 90.42969,
+    "temperature" : 19.3,
+    "timestamp" : "1606241057"
+  },
+  "2020-11-24T18:04:31Z" : {
+    "humidity" : 68,
+    "light" : 90.42969,
+    "temperature" : 19.3,
+    "timestamp" : "1606241071"
+  },
+  "2020-11-24T18:04:43Z" : {
+    "humidity" : 67,
+    "light" : 89.84375,
+    "temperature" : 19.2,
+    "timestamp" : "1606241083"
+  },
+  "2020-11-24T18:04:54Z" : {
+    "humidity" : 67,
+    "light" : 90.42969,
+    "temperature" : 19.2,
+    "timestamp" : "1606241094"
+  },
+  "2020-11-24T18:05:05Z" : {
+    "humidity" : 68,
+    "light" : 89.84375,
+    "temperature" : 19.3,
+    "timestamp" : "1606241105"
+  },
+  "2020-11-24T18:05:19Z" : {
+    "humidity" : 67,
+    "light" : 89.84375,
+    "temperature" : 19.3,
+    "timestamp" : "1606241119"
+  },
+  "2020-11-24T18:05:32Z" : {
+    "humidity" : 67,
+    "light" : 90.52734,
+    "temperature" : 19.2,
+    "timestamp" : "1606241132"
+  },
+  "2020-11-24T18:05:43Z" : {
+    "humidity" : 67,
+    "light" : 90.52734,
+    "temperature" : 19.2,
+    "timestamp" : "1606241143"
+  },
+  "2020-11-24T18:05:54Z" : {
+    "humidity" : 68,
+    "light" : 89.94141,
+    "temperature" : 19.3,
+    "timestamp" : "1606241154"
+  },
+  "2020-11-24T18:06:05Z" : {
+    "humidity" : 67,
+    "light" : 90.03906,
+    "temperature" : 19.3,
+    "timestamp" : "1606241165"
+  },
+  "2020-11-24T18:06:17Z" : {
+    "humidity" : 67,
+    "light" : 90.03906,
+    "temperature" : 19.3,
+    "timestamp" : "1606241177"
+  },
+  "2020-11-24T18:06:28Z" : {
+    "humidity" : 67,
+    "light" : 90.23438,
+    "temperature" : 19.3,
+    "timestamp" : "1606241188"
+  },
+  "2020-11-24T18:06:39Z" : {
+    "humidity" : 67,
+    "light" : 90.91797,
+    "temperature" : 19.3,
+    "timestamp" : "1606241199"
+  },
+  "2020-11-24T18:06:50Z" : {
+    "humidity" : 67,
+    "light" : 90.33203,
+    "temperature" : 19.3,
+    "timestamp" : "1606241210"
+  },
+  "2020-11-24T18:07:01Z" : {
+    "humidity" : 67,
+    "light" : 90.42969,
+    "temperature" : 19.3,
+    "timestamp" : "1606241221"
+  },
+  "2020-11-24T18:07:12Z" : {
+    "humidity" : 67,
+    "light" : 90.42969,
+    "temperature" : 19.3,
+    "timestamp" : "1606241232"
+  },
+  "2020-11-24T18:07:24Z" : {
+    "humidity" : 67,
+    "light" : 90.52734,
+    "temperature" : 19.3,
+    "timestamp" : "1606241244"
+  },
+  "2020-11-24T18:07:35Z" : {
+    "humidity" : 67,
+    "light" : 90.625,
+    "temperature" : 19.3,
+    "timestamp" : "1606241255"
+  },
+  "2020-11-24T18:07:47Z" : {
+    "humidity" : 67,
+    "light" : 90.82031,
+    "temperature" : 19.3,
+    "timestamp" : "1606241267"
+  },
+  "2020-11-24T18:07:59Z" : {
+    "humidity" : 67,
+    "light" : 91.50391,
+    "temperature" : 19.3,
+    "timestamp" : "1606241279"
+  },
+  "2020-11-24T18:08:10Z" : {
+    "humidity" : 67,
+    "light" : 90.91797,
+    "temperature" : 19.3,
+    "timestamp" : "1606241290"
+  },
+  "2020-11-24T18:08:21Z" : {
+    "humidity" : 67,
+    "light" : 90.91797,
+    "temperature" : 19.3,
+    "timestamp" : "1606241301"
+  },
+  "2020-11-24T18:08:32Z" : {
+    "humidity" : 67,
+    "light" : 90.91797,
+    "temperature" : 19.3,
+    "timestamp" : "1606241312"
+  },
+  "2020-11-24T18:08:43Z" : {
+    "humidity" : 67,
+    "light" : 91.69922,
+    "temperature" : 19.3,
+    "timestamp" : "1606241323"
+  },
+  "2020-11-24T18:08:55Z" : {
+    "humidity" : 67,
+    "light" : 91.21094,
+    "temperature" : 19.3,
+    "timestamp" : "1606241335"
+  },
+  "2020-11-24T18:09:07Z" : {
+    "humidity" : 67,
+    "light" : 91.79688,
+    "temperature" : 19.3,
+    "timestamp" : "1606241347"
+  },
+  "2020-11-24T18:09:18Z" : {
+    "humidity" : 67,
+    "light" : 91.21094,
+    "temperature" : 19.3,
+    "timestamp" : "1606241358"
+  },
+  "2020-11-24T18:09:30Z" : {
+    "humidity" : 67,
+    "light" : 91.30859,
+    "temperature" : 19.3,
+    "timestamp" : "1606241370"
+  },
+  "2020-11-24T18:09:41Z" : {
+    "humidity" : 67,
+    "light" : 91.30859,
+    "temperature" : 19.4,
+    "timestamp" : "1606241381"
+  },
+  "2020-11-24T18:09:52Z" : {
+    "humidity" : 67,
+    "light" : 91.30859,
+    "temperature" : 19.4,
+    "timestamp" : "1606241392"
+  },
+  "2020-11-24T18:10:04Z" : {
+    "humidity" : 67,
+    "light" : 91.30859,
+    "temperature" : 19.4,
+    "timestamp" : "1606241404"
+  },
+  "2020-11-24T18:10:16Z" : {
+    "humidity" : 67,
+    "light" : 91.79688,
+    "temperature" : 19.4,
+    "timestamp" : "1606241416"
+  },
+  "2020-11-24T18:10:27Z" : {
+    "humidity" : 67,
+    "light" : 91.30859,
+    "temperature" : 19.4,
+    "timestamp" : "1606241427"
+  },
+  "2020-11-24T18:10:38Z" : {
+    "humidity" : 67,
+    "light" : 91.30859,
+    "temperature" : 19.4,
+    "timestamp" : "1606241438"
+  },
+  "2020-11-24T18:10:49Z" : {
+    "humidity" : 67,
+    "light" : 91.40625,
+    "temperature" : 19.4,
+    "timestamp" : "1606241449"
+  },
+  "2020-11-24T18:11:00Z" : {
+    "humidity" : 67,
+    "light" : 91.40625,
+    "temperature" : 19.4,
+    "timestamp" : "1606241460"
+  },
+  "2020-11-24T18:11:11Z" : {
+    "humidity" : 67,
+    "light" : 91.40625,
+    "temperature" : 19.4,
+    "timestamp" : "1606241471"
+  },
+  "2020-11-24T18:11:22Z" : {
+    "humidity" : 67,
+    "light" : 92.1875,
+    "temperature" : 19.4,
+    "timestamp" : "1606241482"
+  },
+  "2020-11-24T18:11:33Z" : {
+    "humidity" : 67,
+    "light" : 91.50391,
+    "temperature" : 19.4,
+    "timestamp" : "1606241493"
+  },
+  "2020-11-24T18:11:44Z" : {
+    "humidity" : 67,
+    "light" : 91.40625,
+    "temperature" : 19.4,
+    "timestamp" : "1606241504"
+  },
+  "2020-11-24T18:11:55Z" : {
+    "humidity" : 67,
+    "light" : 91.40625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241515"
+  },
+  "2020-11-24T18:12:07Z" : {
+    "humidity" : 67,
+    "light" : 91.40625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241527"
+  },
+  "2020-11-24T18:12:18Z" : {
+    "humidity" : 66,
+    "light" : 91.30859,
+    "temperature" : 19.4,
+    "timestamp" : "1606241538"
+  },
+  "2020-11-24T18:12:29Z" : {
+    "humidity" : 67,
+    "light" : 91.79688,
+    "temperature" : 19.5,
+    "timestamp" : "1606241549"
+  },
+  "2020-11-24T18:12:40Z" : {
+    "humidity" : 67,
+    "light" : 91.30859,
+    "temperature" : 19.4,
+    "timestamp" : "1606241560"
+  },
+  "2020-11-24T18:12:51Z" : {
+    "humidity" : 67,
+    "light" : 91.21094,
+    "temperature" : 19.4,
+    "timestamp" : "1606241571"
+  },
+  "2020-11-24T18:13:02Z" : {
+    "humidity" : 67,
+    "light" : 91.69922,
+    "temperature" : 19.5,
+    "timestamp" : "1606241582"
+  },
+  "2020-11-24T18:13:13Z" : {
+    "humidity" : 67,
+    "light" : 91.21094,
+    "temperature" : 19.5,
+    "timestamp" : "1606241593"
+  },
+  "2020-11-24T18:13:24Z" : {
+    "humidity" : 67,
+    "light" : 91.11328,
+    "temperature" : 19.5,
+    "timestamp" : "1606241604"
+  },
+  "2020-11-24T18:13:35Z" : {
+    "humidity" : 67,
+    "light" : 91.69922,
+    "temperature" : 19.5,
+    "timestamp" : "1606241615"
+  },
+  "2020-11-24T18:13:46Z" : {
+    "humidity" : 67,
+    "light" : 91.11328,
+    "temperature" : 19.5,
+    "timestamp" : "1606241626"
+  },
+  "2020-11-24T18:13:57Z" : {
+    "humidity" : 67,
+    "light" : 91.01563,
+    "temperature" : 19.5,
+    "timestamp" : "1606241637"
+  },
+  "2020-11-24T18:14:08Z" : {
+    "humidity" : 67,
+    "light" : 91.01563,
+    "temperature" : 19.5,
+    "timestamp" : "1606241648"
+  },
+  "2020-11-24T18:14:19Z" : {
+    "humidity" : 67,
+    "light" : 90.91797,
+    "temperature" : 19.5,
+    "timestamp" : "1606241659"
+  },
+  "2020-11-24T18:14:30Z" : {
+    "humidity" : 66,
+    "light" : 90.91797,
+    "temperature" : 19.5,
+    "timestamp" : "1606241670"
+  },
+  "2020-11-24T18:14:42Z" : {
+    "humidity" : 66,
+    "light" : 91.60156,
+    "temperature" : 19.5,
+    "timestamp" : "1606241682"
+  },
+  "2020-11-24T18:14:53Z" : {
+    "humidity" : 66,
+    "light" : 90.91797,
+    "temperature" : 19.5,
+    "timestamp" : "1606241693"
+  },
+  "2020-11-24T18:15:04Z" : {
+    "humidity" : 66,
+    "light" : 90.82031,
+    "temperature" : 19.5,
+    "timestamp" : "1606241704"
+  },
+  "2020-11-24T18:15:15Z" : {
+    "humidity" : 66,
+    "light" : 90.625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241715"
+  },
+  "2020-11-24T18:15:26Z" : {
+    "humidity" : 66,
+    "light" : 90.625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241726"
+  },
+  "2020-11-24T18:15:37Z" : {
+    "humidity" : 66,
+    "light" : 90.625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241737"
+  },
+  "2020-11-24T18:15:49Z" : {
+    "humidity" : 66,
+    "light" : 91.40625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241749"
+  },
+  "2020-11-24T18:16:00Z" : {
+    "humidity" : 66,
+    "light" : 90.625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241760"
+  },
+  "2020-11-24T18:16:11Z" : {
+    "humidity" : 66,
+    "light" : 90.625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241771"
+  },
+  "2020-11-24T18:16:22Z" : {
+    "humidity" : 66,
+    "light" : 90.625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241782"
+  },
+  "2020-11-24T18:16:33Z" : {
+    "humidity" : 66,
+    "light" : 90.625,
+    "temperature" : 19.5,
+    "timestamp" : "1606241793"
+  }
