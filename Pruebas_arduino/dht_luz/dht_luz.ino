@@ -1,5 +1,7 @@
 #include "DHT.h"
 
+// Lee la temperatura, humedad y luz y la muestra en pc por puerto serial
+
 //Sensor DHT
 #define DHTTYPE DHT11
 const int DHTPin = 7;     
